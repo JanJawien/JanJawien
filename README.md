@@ -1,11 +1,11 @@
-## 👋 Hello there 
+# 👋 Hello there 
 
 Student AGH
 IiSI 1sem
 
-# 🌐 Moja epicka strona:
+## 🌐 Moja epicka strona:
 
-janjawien.github.io (->)[janjawien.github.io]
+janjawien.github.io [->](janjawien.github.io)
 <!--
 **JanJawien/JanJawien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
